@@ -1,10 +1,11 @@
 package com.santos.projetogame.services;
 
-import com.projetogame.projectgame.DTO.GameDTO;
-import com.projetogame.projectgame.DTO.GameMinDTO;
-import com.projetogame.projectgame.entities.Game;
-import com.projetogame.projectgame.projections.GameMinProjection;
-import com.projetogame.projectgame.repositories.GameRepository;
+
+import com.santos.projetogame.DTO.GameDTO;
+import com.santos.projetogame.DTO.GameMinDTO;
+import com.santos.projetogame.entities.Game;
+import com.santos.projetogame.projections.GameMinProjection;
+import com.santos.projetogame.repositories.GameRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,8 +1,9 @@
 package com.santos.projetogame.services;
 
-import com.projetogame.projectgame.DTO.GameListDTO;
-import com.projetogame.projectgame.entities.GameList;
-import com.projetogame.projectgame.repositories.GameListRepository;
+
+import com.santos.projetogame.DTO.GameListDTO;
+import com.santos.projetogame.entities.GameList;
+import com.santos.projetogame.repositories.GameListRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;

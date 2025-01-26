@@ -1,7 +1,8 @@
 package com.santos.projetogame.repositories;
 
-import com.projetogame.projectgame.entities.Game;
-import com.projetogame.projectgame.projections.GameMinProjection;
+
+import com.santos.projetogame.entities.Game;
+import com.santos.projetogame.projections.GameMinProjection;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

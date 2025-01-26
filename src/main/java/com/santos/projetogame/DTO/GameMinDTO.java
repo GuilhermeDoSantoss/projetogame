@@ -1,8 +1,8 @@
 package com.santos.projetogame.DTO;
 
 
-import com.projetogame.projectgame.entities.Game;
-import com.projetogame.projectgame.projections.GameMinProjection;
+import com.santos.projetogame.entities.Game;
+import com.santos.projetogame.projections.GameMinProjection;
 
 public class GameMinDTO {
     private Long id;

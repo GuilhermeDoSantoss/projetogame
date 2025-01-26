@@ -1,10 +1,11 @@
 package com.santos.projetogame.controllers;
 
 
-import com.projetogame.projectgame.DTO.GameListDTO;
-import com.projetogame.projectgame.DTO.GameMinDTO;
-import com.projetogame.projectgame.services.GameListService;
-import com.projetogame.projectgame.services.GameService;
+
+import com.santos.projetogame.DTO.GameListDTO;
+import com.santos.projetogame.DTO.GameMinDTO;
+import com.santos.projetogame.services.GameListService;
+import com.santos.projetogame.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

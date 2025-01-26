@@ -1,6 +1,7 @@
 package com.santos.projetogame.DTO;
 
-import com.projetogame.projectgame.entities.Game;
+
+import com.santos.projetogame.entities.Game;
 import jakarta.persistence.*;
 import org.springframework.beans.BeanUtils;
 

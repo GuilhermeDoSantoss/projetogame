@@ -1,6 +1,7 @@
 package com.santos.projetogame.DTO;
 
-import com.projetogame.projectgame.entities.GameList;
+
+import com.santos.projetogame.entities.GameList;
 
 public class GameListDTO {
 
